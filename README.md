@@ -11,6 +11,6 @@ Things that you should expect to see in V1.1.0 !
 - High quality maze, like no copy and paste
 - Secret Rooms To find
 - Even Bigger Maze!
-- Remove And Fix Board For The Start
+- 2 More Boards! Removed Things And A Fixed Things
 - Easter Eggs
 - Possibly More Minor Changes!
