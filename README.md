@@ -14,3 +14,5 @@ Things that you should expect to see in V1.1.0 !
 - 2 More Boards! Removed Things And A Fixed Things
 - Easter Eggs
 - Possibly More Minor Changes!
+
+( V2.0.0 WILL INCLUDE THE POOLROOMS!! )
