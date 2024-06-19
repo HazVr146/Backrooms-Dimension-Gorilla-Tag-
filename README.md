@@ -15,4 +15,8 @@ Things that you should expect to see in V1.1.0 !
 - Easter Eggs
 - Possibly More Minor Changes!
 
+Problems When Playing! --
+- Game Lag
+- Thats it :)
+
 ( V2.0.0 WILL INCLUDE THE POOLROOMS!! )
