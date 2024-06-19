@@ -10,7 +10,7 @@ New things that have released for V1 --
 Things that you should expect to see in V1.1.0 !
 - High quality maze, like no copy and paste
 - Secret Rooms To find
-- Even Bigger Maze!
+- Harder Maze!
 - 2 More Boards! Removed Things And A Fixed Things
 - Easter Eggs
 - Possibly More Minor Changes!
